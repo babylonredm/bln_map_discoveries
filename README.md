@@ -1,7 +1,7 @@
 # BLN Map Discoveries
 
 ## Description
-is a resource for RedM servers that  enables map discoveries as in Story Mod of RDR2. This enhances the gameplay experience by revealing all map locations without requiring manual intervention.
+is a resource for RedM servers that  enables map discoveries as in Story Mode of RDR2. This enhances the gameplay experience by revealing all map locations without requiring manual intervention.
 
 <img src="./_imgs/demo.png" width="100%" height="auto" style="margin:1rem" />
 
